@@ -15,7 +15,7 @@ Com o esse projeto, você irá poder projetar: Amplificador Emissor Comum(Transi
 <br>Tensão de saída.
 <li>Comparador de tensão(Amp-Op):<br>
 (Podemos calcular o Comparador Inversor e o Não Inversor)
-Er(Tensão média);
+<br>Er(Tensão média);
 <br>Faixa de histerese(Zona de atuação);
 <br>Epcs(Valor máximo de tensão);
 <br>Epci(Valor mínimo de tensão).
