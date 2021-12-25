@@ -13,8 +13,8 @@ Com o esse projeto, você irá poder projetar: Amplificador Emissor Comum(Transi
 <br> Resistor Rb2(Resistor 2 da Base do Transistor).
 <li> Amplificador de tensão(Amp-Op):
 <br>Tensão de saída.
-<li>Comparador de tensão(Amp-Op):
-<h4>(Podemos calcular o Comparador Inversor e o Não Inversor)</h4>
+<li>Comparador de tensão(Amp-Op):<br>
+(Podemos calcular o Comparador Inversor e o Não Inversor)
 Er(Tensão média);
 <br>Faixa de histerese(Zona de atuação);
 <br>Epcs(Valor máximo de tensão);
