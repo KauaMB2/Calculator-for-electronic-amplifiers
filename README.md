@@ -6,6 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Calculadora-para-amplificadores?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Calculadora-para-amplificadores?style=for-the-badge)
 
+
 <h3> Objetivo do programa: </h3>
 <h5> O programa foi feito no intuito de facilitar os cálculos de resistores necessários para projetar algum amplificador eletrônico(de tensão ou corrente).<br>
 Com o esse projeto, você irá poder projetar: Amplificador Emissor Comum(Transistor), Amplificador de Tensão(Amp-Op) e Comparador de tensão inversor e também Não Inversor(Amp-OP).</h5>
