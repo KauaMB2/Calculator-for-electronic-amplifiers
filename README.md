@@ -1,4 +1,4 @@
-<center><h1> C++: Calculadora de resistores para amplificadores </h1></center>
+## C++: Calculadora de resistores para amplificadores
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Calculadora-para-amplificadores?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Calculadora-para-amplificadores?style=for-the-badge)
@@ -7,30 +7,30 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Calculadora-para-amplificadores?style=for-the-badge)
 
 
-<h3> Objetivo do programa: </h3>
-<h5> O programa foi feito no intuito de facilitar os cálculos de resistores necessários para projetar algum amplificador eletrônico(de tensão ou corrente).<br>
-Com o esse projeto, você irá poder projetar: Amplificador Emissor Comum(Transistor), Amplificador de Tensão(Amp-Op) e Comparador de tensão inversor e também Não Inversor(Amp-OP).</h5>
+<h3> Purpose of the program: </h3>
+<h5> The program was made in order to facilitate the use of resistors for some electronic amplifier (to design or operate).
+With this one, you will be able to design: Emitter Amplifier, Voltage Amplifier(Op-Amp) and Voltage Comparator and also Non-Inverter(OP-Amp).</h5>
 <h1></h1>
-<h3> Cálculos possíveis: </h3>
-<h5> 
+<h3> Possible calculations: </h3>
+<h5>
 <ol>
-<li> Amplificador Emissor Comum(Transistor):
-<br> Resistor Rc(Resistor do Coletor do Transistor);
-<br> Resistor Re(Resistor do Emissor do Transistor);
-<br> Resistor Rb1(Resistor 1 da Base do Transistor);
-<br> Resistor Rb2(Resistor 2 da Base do Transistor).
-<li> Amplificador de tensão(Amp-Op):
-<br>Tensão de saída.
-<li>Comparador de tensão(Amp-Op):<br>
-(Podemos calcular o Comparador Inversor e o Não Inversor)
-<br>Er(Tensão média);
-<br>Faixa de histerese(Zona de atuação);
-<br>Epcs(Valor máximo de tensão);
-<br>Epci(Valor mínimo de tensão).
+<li>Common Emitter Amplifier(Transistor):
+<br> Resistor Rc(Transistor Collector Resistor);
+<br> Resistor Re(Transistor Emitter Resistor);
+<br> Resistor Rb1(Resistor 1 of the Base of the Transistor);
+<br> Resistor Rb2(Resistor 2 of the Base of the Transistor).
+<li>Voltage Amplifier(Op-Amp):
+<br>Output voltage.
+<li>Voltage Comparator (Op-Amp):<br>
+(We can calculate the Inverting and Non-Inverting Comparator)
+<br>Er(Average voltage);
+<br>Hysteresis range(Actuation zone);
+<br>Epcs(Maximum voltage value);
+<br>Epci(Minimum voltage value).
 </ol>
 </h5>
 <h1></h1>
-<h3>Demais avisos:</h3>
-<h5>O programa foi feito no intuito de relembrar conceitos relacionados ao funcionamento de Transistor, Amplificadores Operacionais, condicionais simples e cabeçalhos em C++. Ainda é um protótipo.</h5>
+<h3>Other warnings:</h3>
+<h5>The program was made in order to remember concepts related to the operation of Transistors, Operational Amplifiers, simple conditionals and headers in C++. It's still a movement.</h5>
 <h5></h5>
 <h1></h1>
