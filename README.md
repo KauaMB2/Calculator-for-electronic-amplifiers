@@ -31,6 +31,6 @@ With this one, you will be able to design: Emitter Amplifier, Voltage Amplifier(
 </h5>
 <h1></h1>
 <h3>Other warnings:</h3>
-<h5>The program was made in order to remember concepts related to the operation of Transistors, Operational Amplifiers, simple conditionals and headers in C++. It's still a movement.</h5>
+<h5>The program was made in order to remember concepts related to the operation of Transistors, Operational Amplifiers, simple conditionals and headers in C++.</h5>
 <h5></h5>
 <h1></h1>
